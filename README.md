@@ -24,6 +24,6 @@ A simple and responsive Password Generator built with **HTML**, **CSS**, and **J
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/asthagit116/password-generator.git
 
 
